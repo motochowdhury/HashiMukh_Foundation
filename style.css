@@ -51,3 +51,76 @@ h1{
     border-radius: 5px;
 }
 /* Home Section End */
+
+/* Donate Today section Start */
+
+.donate-today-section {
+    margin-bottom: 200px;
+}
+.parent-dinfo {
+    text-align: center;
+}
+.donate-info{
+    display: inline-block;
+    width: 450px;
+    margin-bottom: 40px;
+}
+.donate-title {
+    font-size: 50px;
+    color: grey;
+    text-align: center;
+}
+.amount-info {
+    text-align: center;
+}
+.amount .donate-amount {
+    width: 135px;
+    height: 123px;
+    display: inline-block;
+    background-color: #fafafa;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.amount .amount-number {
+    padding-top: 10px;
+    font-size: 30px;
+    font-weight: 700;
+    color: grey;
+}
+#selected-amount-color{
+    color: #ff5959;
+}
+
+#selected-amount {
+    background-color: #ffeeee;
+    border: 2px solid #ff5959;
+    margin-bottom: 50px;
+}
+
+.other-amount{
+    width: 57%;
+    height: 100%;
+    border: none;
+    border-bottom: 1px solid #dadada;
+    text-align: center;
+    font-family: 'teko';
+    font-size: 20px;
+}
+.child-button {
+    padding-top: 30px;
+    text-align: center;
+}
+.donate-btn {
+    display: inline-block;
+    font-family: 'teko';
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px 30px;
+    background-color: tomato;
+    border: none;
+    border-radius: 5px;
+
+}
+
+/* Donate today section end */
