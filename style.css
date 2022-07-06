@@ -182,3 +182,104 @@ h1{
 
 }
 /* Donate plan section End */
+/* Gallery Section Start */
+
+.gallery {
+    margin-bottom: 200px;
+}
+.gallery-info-parents {
+    text-align: center;
+}
+.gallery-info h1 {
+    font-size: 50px;
+    color: grey;
+    padding-bottom: 0;
+}
+.photo {
+    text-align: center;
+}
+.album img {
+    width: 300px;
+    border-radius: 5px;
+    border: 4px solid grey;
+}
+
+/* Gallery Section End */
+
+/* get update section start */
+
+.get-update {
+    margin-bottom: 200px;
+}
+.update-title {
+    text-align: center;
+}
+.update-title h1 {
+    font-size: 50px;
+    color: grey;
+    margin-bottom: 0px;
+}
+.email-btn {
+    display: inline-block;
+    padding-top: 70px;
+}
+.email-btn input, button {
+    border: none;
+    height: 48px;
+}
+.email-and-button {
+    width: 809px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: #fff4d6;
+}
+.input-email {
+    text-align: center;
+}
+.email {
+    background-color: #dadada;
+    width: 275px;
+    padding: 0 15px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    color: white;
+}
+input::placeholder {
+    font: 18px 'teko';
+}
+.btn {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 157px;
+    background-color: #ff5959;
+    padding: 0;
+    margin: 0;
+    font: 18px 'teko';
+    color: white;
+}
+
+/* Get update section End */
+
+/* footer section Start */
+
+footer {
+    background-color: black;
+    height: 300px;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+}
+.footer-name {
+    font-size: 30px;
+    padding-top: 70px;
+    padding-bottom: 0;
+}
+.footer-name span {
+    color: orange;
+}
+
+/* footer section End */
