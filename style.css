@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+}
+body p{
+    font-family: 'teko', sans-serif;
+    font-size: 20px;
+}
+h1{
+    font-family: 'teko';
+    font-weight: 50px;
+}
+/* Home-Section start */
+
+.home-section {
+    background-image: url("images/top-banner.jpg");
+    background-repeat: no-repeat;
+    height: 700px;
+    background-size: cover;
+    margin-bottom: 100px;
+}
+.parent-h-info {
+    padding-top: 200px;
+    text-align: center;
+}
+.home-info {
+    display: inline-block;
+    width: 550px;
+}
+.home-title {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 50px;
+    color: aqua;
+    margin-top: 0;
+}
+.hungry-color {
+    color: rgb(244, 248, 17);
+    font-family: 'teko';
+    font-weight: bold;
+}
+.desc {
+    font-family: 'teko';
+    color: white;
+}
+.button {
+    font-family: 'teko';
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px 30px;
+    background-color: tomato;
+    border: none;
+    border-radius: 5px;
+}
+/* Home Section End */
